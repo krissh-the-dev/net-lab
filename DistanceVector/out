@@ -1,0 +1,7 @@
+n -t * -s 3 -v circle -c black -z 10.000000 -S UP
+n -t * -s 2 -v circle -c black -z 10.000000 -S UP
+n -t * -s 1 -v circle -c black -z 10.000000 -S UP
+n -t * -s 0 -v circle -c black -z 10.000000 -S UP
+l -t * -s 1 -d 2 -r 10.000000 -D 10.000000 -c black -o 71.6deg -l 10.000000 -S UP
+l -t * -s 1 -d 3 -r 10.000000 -D 10.000000 -c red -o 0.0deg -l 10.000000 -S DOWN
+l -t * -s 0 -d 1 -r 10.000000 -D 10.000000 -c black -o 100.3deg -l 10.000000 -S UP
